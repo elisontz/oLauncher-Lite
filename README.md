@@ -1,5 +1,11 @@
 # oLauncher-Lite
 oLauncher - Launch apps using the classic Launchpad style in macOS 26.
+<p align="center">
+  <img src="https://github.com/elisontz/oLauncher-Lite/blob/main/%E5%85%A8%E5%B1%8F%E6%A8%A1%E5%BC%8F%E4%B8%BB%E5%9B%BE.jpg" width="1000" />  
+</p>
+<p align="center">
+  <img src="https://github.com/elisontz/oLauncher-Lite/blob/main/%E7%AA%97%E5%8F%A3%E6%A8%A1%E5%BC%8F%E4%B8%BB%E5%9B%BE.jpg" width="1000" />  
+</p>
 
 If you've upgraded to macOS Tahoe and you're not a fan of the new app launcher, oLauncher might be exactly what you're looking for.
 
