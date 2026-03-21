@@ -1,19 +1,19 @@
-# oLauncher-Lite
-oLauncher - Launch apps using the classic Launchpad style in macOS 26.
+# Liqunch-Lite
+Liqunch - Launch apps using the classic Launchpad style in macOS 26.
 <p align="center">
-  <img src="https://github.com/elisontz/oLauncher-Lite/blob/main/%E5%85%A8%E5%B1%8F%E6%A8%A1%E5%BC%8F%E4%B8%BB%E5%9B%BE.jpg" width="1000" />  
+  <img src="https://github.com/elisontz/Liqunch-Lite/blob/main/%E5%85%A8%E5%B1%8F%E6%A8%A1%E5%BC%8F%E4%B8%BB%E5%9B%BE.jpg" width="1000" />  
 </p>
 <p align="center">
-  <img src="https://github.com/elisontz/oLauncher-Lite/blob/main/%E7%AA%97%E5%8F%A3%E6%A8%A1%E5%BC%8F%E4%B8%BB%E5%9B%BE.jpg" width="1000" />  
+  <img src="https://github.com/elisontz/Liqunch-Lite/blob/main/%E7%AA%97%E5%8F%A3%E6%A8%A1%E5%BC%8F%E4%B8%BB%E5%9B%BE.jpg" width="1000" />  
 </p>
 
-If you've upgraded to macOS Tahoe and you're not a fan of the new app launcher, oLauncher might be exactly what you're looking for.
+If you've upgraded to macOS Tahoe and you're not a fan of the new app launcher, Liqunch might be exactly what you're looking for.
 
-oLauncher brings back a clean, intuitive way to launch your apps. It is minimal, easy to use, and designed to feel fast and natural from the first moment.
+Liqunch brings back a clean, intuitive way to launch your apps. It is minimal, easy to use, and designed to feel fast and natural from the first moment.
 
-oLauncher is signed with an Apple Developer ID, so you can safely install it by simply moving it into your Applications folder.
+Liqunch is signed with an Apple Developer ID, so you can safely install it by simply moving it into your Applications folder.
 
-Privacy matters. oLauncher does not collect personal data, does not track your activity, and does not upload your app usage information. Your launcher data stays on your Mac.
+Privacy matters. Liqunch does not collect personal data, does not track your activity, and does not upload your app usage information. Your launcher data stays on your Mac.
 
 Core Features:
 
@@ -47,5 +47,5 @@ Core Features:
 
 Simple. Fast. Focused.
 
-oLauncher is designed to help you launch apps the way it should feel.
+Liqunch is designed to help you launch apps the way it should feel.
 
