@@ -1,5 +1,6 @@
 # Liqunch-Lite
 Liqunch - Launch apps using the classic Launchpad style in macOS 26.
+[https://liqunch.com]
 <p align="center">
   <img src="https://github.com/elisontz/Liqunch-Lite/blob/main/%E5%85%A8%E5%B1%8F%E6%A8%A1%E5%BC%8F%E4%B8%BB%E5%9B%BE.jpg" width="1000" />  
 </p>
